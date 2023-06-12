@@ -1,0 +1,25 @@
+@keyframes updown {
+    from {
+        transform: translateY(-10px);
+    }
+    to {
+        transform: translateY(10px);
+    }    
+}
+
+@keyframes leftRight {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateX(-50px);
+    }
+}
+
+.animationUpDown {
+    animation: updown 2s linear infinite;
+}
+
+.animationLeftRight {
+    animation: leftRight 5s linear infinite alternate;
+}

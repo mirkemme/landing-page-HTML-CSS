@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #c61941;
+  --color-secondary: #45c4af;
+  --color-dark: rgba(14, 14, 14, 0.7);
+  --color-light: #e0e0e0;
+  --color-red: #f70646;
+  --color-darkblue: rgba(0, 0, 85, 0.7);
+  --color-blue: rgba(0, 0, 202, 0.7);
+  --color-lightblue: rgba(232, 232, 255, 0.8);
+  --color-orange: rgba(255, 166, 0, 0.6);
+  --color-lightyellow: rgba(255, 255, 137, 0.8);
+}
